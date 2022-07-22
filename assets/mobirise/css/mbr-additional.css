@@ -942,8 +942,8 @@ a {
   display: flex;
   border-radius: 50%;
   text-align: center;
-  color: #ffffff;
-  border: 2px solid #ffffff;
+  color: #fafafa;
+  border: 2px solid #fafafa;
   justify-content: center;
   align-content: center;
   transition: all 0.3s;
@@ -952,6 +952,6 @@ a {
   padding: 0.6rem;
 }
 .cid-tcjH3aDEJv .icons-menu .soc-item .mbr-iconfont:hover {
-  background-color: #ffffff;
+  background-color: #fafafa;
   color: #000000;
 }
